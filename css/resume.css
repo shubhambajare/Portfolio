@@ -96,7 +96,7 @@ p.lead {
   font-family: roboto;
   color: #429bf4;
   font-size: 1.4em;
-  content: "k";   #any letter of your choice but for kaggle "k"
+  content: "h"; 
 }
 
 @media (min-width: 992px) {
